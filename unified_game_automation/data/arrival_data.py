@@ -123,7 +123,7 @@ STAT_VARIATIONS = {
     "Attack Rate (1)": ["100", "200", "300", "400", "500"],
     "Attack Rate (2)": ["120", "240", "300", "360", "480", "600"],
     "Resist Skill Amp": ["8%", "15%", "30%"],
-    "Arrival Skill Buff Time UP": ["2s", "4s", "8s", "15s"],
+    "Arrival Skill Buff Time UP": ["4s", "8s", "16s", "30s"],
     "Max Critical Rate": ["1%", "2%"],
     "Accuracy": ["120", "240", "300", "360", "480", "600"],
     "Cancel Ignore Penetration": ["18", "35", "75"],
